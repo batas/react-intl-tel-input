@@ -1,5 +1,5 @@
 {
-  "name": "react-intl-tel-input",
+  "name": "@batas/react-intl-tel-input",
   "version": "5.0.4",
   "description": "Telephone input component. Rewrite intl-tel-input in React.js.",
   "author": "patw",
