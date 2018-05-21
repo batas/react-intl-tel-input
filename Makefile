@@ -11,6 +11,7 @@ configure-node:
 build: build-node
 build-node: configure-node
 	npm run build
+	cd dist && npm pack .. && cd -
 
 .PHONY: check
 check: build
